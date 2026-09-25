@@ -1,0 +1,6 @@
+Atlas_01,88,ONLINE
+Atlas_02,14,ONLINE
+Atlas_03,65,ERROR
+Atlas_04,9,ONLINE
+Atlas_05,unknown,ERROR
+Atlas_06,72,ONLINE
